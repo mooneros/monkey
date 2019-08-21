@@ -30,6 +30,6 @@ spring:
     http:
       legacy:
         enabled: true
-  userfiles:
-    basedir:/Users/yiyima/Documents/eco
+userfiles:
+  basedir: /Users/yiyima/Documents/eco
       
